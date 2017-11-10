@@ -2,11 +2,11 @@
 parameters:
     database_driver: pdo_mysql
     database_host: 127.0.0.1
-    database_port: null
+    database_port: 49494
     #database_name: alanrestaurant
     database_name: localdb
-    database_user: root
-    database_password: null
+    database_user: azure
+    database_password: 6#vWHD_$
     mailer_transport: smtp
     locale: en
     secret: ThisTokenIsNotSoSecretChangeIt
